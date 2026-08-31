@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Hani Nasirpour
 
-<!--
-**hani-nsrp/Hani-Nsrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Frontend Developer | Angular Specialist **
 
-Here are some ideas to get you started:
+I build scalable, maintainable and high-performance web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+Angular • TypeScript • JavaScript • HTML • CSS
+.NET • ASP.NET MVC • C# • SQL Server
+Git • REST API • SignalR
+
+🚀 Featured Projects
+
+01. E-Commerce Platform
+02. Real-time Chat System
+03. Image Compression Tool
+04. Admin Dashboard
