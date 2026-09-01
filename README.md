@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Hani Nasirpour
 
-** Frontend Developer | Angular Specialist **
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=FrontEnd+Developer;Web%20Designer;Angular%20Specialist;Passionate%20about%20Learning%20New%20Things&center=true&width=500&height=50&color=5415CA"></a>
+</p>
 
 I build scalable, maintainable and high-performance web applications.
 
